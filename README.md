@@ -75,3 +75,7 @@ Now, try converting the following hexadecimal numbers to decimal:
 5. 1A3 → **419** (decimal)
 
 
+### Next Section 
+[Conversions Between Binary and Hexadecimal](https://github.com/cas65/Conversion-between-Binary-and-Hexadecimal-.git)
+
+
