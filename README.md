@@ -7,7 +7,7 @@ Hexadecimal is a base 16 number system. Unlike the binary system, which uses two
 Hexadecimal is used in computing because it is more compact and easier to read than binary. Each hexadecimal digit corresponds to exactly four binary digits (a **nibble**). This allows large binary numbers to be expressed in a much shorter, more readable format. Hexadecimal is commonly used in programming and computer science, particularly for memory addresses, color codes in web design, and other tasks that require representing large binary values.
 
 ### Position Value
-Just like binary numbers, hexadecimal numbers have place values, but instead of powers of 2 (as in binary), each position represents a power of **16**. For example:
+Just like binary numbers, hexadecimal numbers have place values, but instead of powers of 2 (like in binary), each position represents a power of **16**. For example:
 - The rightmost digit represents **16⁰** (1),
 - The next digit represents **16¹** (16),
 - The next represents **16²** (256),
